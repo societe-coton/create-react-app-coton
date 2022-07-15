@@ -1,1 +1,3 @@
-export const Router = () => <div />;
+const router = ''
+
+export const Router = () => <div />
