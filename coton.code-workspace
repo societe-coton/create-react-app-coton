@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.eol": "\n",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.preferences.useAliasesForRenames": false,
+  },
+  "extensions": {
+    "recommendations": [
+      "wayou.vscode-todo-highlight",
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "styled-components.vscode-styled-components",
+    ]
+  }
+}
